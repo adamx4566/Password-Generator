@@ -17,4 +17,4 @@ It allows you to create strong passwords with different options such as lowercas
 - CSS3
 - Vanilla JavaScript
 
-<img src="Stopwatch App/Pictures/StopwatchApp.png" alt="PasswordGenerator Preview" width="500">
+<img src="Password Generator/Pictures/PasswordGenerator.png" alt="PasswordGenerator Preview" width="500">
